@@ -7,3 +7,7 @@
 </div>
 
 ###
+
+<p align="left">Me chamo Laura Machado, tenho 18 anos e sou de Minas Gerais. Atualmente, sou estudante do curso de Sistemas de Informação na PUC Minas, cursando o primeiro período. Sempre fui apaixonada por tecnologia e encontrei na programação a área com a qual mais me identifico. Tenho muita vontade de aprender e evoluir constantemente.</p>
+
+###

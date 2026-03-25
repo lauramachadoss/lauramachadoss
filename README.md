@@ -1,6 +1,8 @@
 <h1 align="left">👩🏻‍💻 Laura Machado</h1>
 
 ###
+**`Dev Full-Stack`**
+###
 
 <p align="left">Estudante de Sistemas de Informação pela PUC Minas, apaixonada por tecnologia e motivada a construir carreira na área de desenvolvimento de software. Busco minha primeira oportunidade profissional, seja em período integral ou estágio, onde eu possa aplicar meus conhecimentos, desenvolver novas habilidades técnicas e contribuir de forma significativa para a equipe.
 </p>

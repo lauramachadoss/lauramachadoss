@@ -27,10 +27,6 @@
 
 ###
 
-<div align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramachadoss&layout=compact&theme=radical&cache_seconds=1800)
-</div>
-
 ###
 
 <h3 align="left">Para saber mais, entre em contato comigo por meio de uma das minhas redes sociais:</h3>
